@@ -125,6 +125,9 @@
   <ItemGroup>
     <ClCompile Include="lab16.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="array.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
