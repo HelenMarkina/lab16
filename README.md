@@ -99,7 +99,7 @@ double* insert(double* ptr_arr, int* size, int index, double num);
 #endif
 ```
 
-### Файл `main.c`
+### Файл `lab16.c`
 ```c
 #define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
